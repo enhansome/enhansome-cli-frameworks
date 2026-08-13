@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T20:41:12Z",
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24217
+            "stars": 24219
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-12T14:01:31Z",
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11584
+            "stars": 11585
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2024-02-29T17:02:27Z",
             "owner": "commandlineparser",
             "repo": "commandline",
-            "stars": 4813
+            "stars": 4812
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-01-12T21:42:47Z",
             "owner": "spf13",
             "repo": "viper",
-            "stars": 30430
+            "stars": 30429
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2025-12-27T22:04:21Z",
             "owner": "alexflint",
             "repo": "go-arg",
-            "stars": 2269
+            "stars": 2268
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2026-05-10T11:00:59Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5406
+            "stars": 5407
           }
         },
         {
@@ -602,7 +602,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39633
+            "stars": 39635
           }
         },
         {
@@ -627,10 +627,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T17:44:22Z",
+            "last_commit": "2026-08-13T05:51:25Z",
             "owner": "SBoudrias",
             "repo": "Inquirer.js",
-            "stars": 21615
+            "stars": 21614
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2026-08-12T13:41:51Z",
             "owner": "symfony",
             "repo": "console",
-            "stars": 9807
+            "stars": 9808
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "last_commit": "2026-08-10T18:37:00Z",
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22204
+            "stars": 22207
           }
         },
         {
@@ -1400,7 +1400,7 @@
             "last_commit": "2026-08-12T21:15:48Z",
             "owner": "clap-rs",
             "repo": "clap",
-            "stars": 16626
+            "stars": 16627
           }
         },
         {
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:20.833Z",
+    "last_updated": "2026-08-13T08:45:52.856Z",
     "original_repository": "shadawck/awesome-cli-frameworks",
     "original_repository_sha": "7a2bd4946029285ea1333cff56da836ad9e34b32",
     "enhanced_repository": "enhansome/enhansome-cli-frameworks",
