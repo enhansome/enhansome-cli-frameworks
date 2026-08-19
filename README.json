@@ -12,10 +12,10 @@
             "archived": false,
             "id": 502193049,
             "language": "Go",
-            "last_commit": "2026-08-17T21:08:33Z",
+            "last_commit": "2026-08-19T10:11:15Z",
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24253
+            "stars": 24252
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 222777351,
             "language": "Ruby",
-            "last_commit": "2026-08-19T07:27:24Z",
+            "last_commit": "2026-08-19T12:13:35Z",
             "owner": "bashly-framework",
             "repo": "bashly",
             "stars": 2434
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-17T21:38:23Z",
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11590
+            "stars": 11591
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-18T14:47:19Z",
             "owner": "tui-cs",
             "repo": "Terminal.Gui",
-            "stars": 11175
+            "stars": 11176
           }
         },
         {
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 86743880,
             "language": "C#",
-            "last_commit": "2026-08-01T14:34:04Z",
+            "last_commit": "2026-08-19T12:04:21Z",
             "owner": "Tyrrrz",
             "repo": "CliWrap",
             "stars": 4996
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-11T00:43:07Z",
             "owner": "spf13",
             "repo": "cobra",
-            "stars": 44462
+            "stars": 44464
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39690
+            "stars": 39692
           }
         },
         {
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 2206953,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T04:06:15Z",
+            "last_commit": "2026-08-19T10:22:35Z",
             "owner": "tj",
             "repo": "commander.js",
             "stars": 28365
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-08-12T12:24:16Z",
             "owner": "laravel-zero",
             "repo": "laravel-zero",
-            "stars": 3992
+            "stars": 3993
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-07-01T08:19:02Z",
             "owner": "google",
             "repo": "python-fire",
-            "stars": 28205
+            "stars": 28206
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2025-06-23T09:03:15Z",
             "owner": "docopt",
             "repo": "docopt",
-            "stars": 8008
+            "stars": 8009
           }
         },
         {
@@ -1476,10 +1476,10 @@
             "archived": false,
             "id": 600886023,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:14:09Z",
+            "last_commit": "2026-08-19T12:13:41Z",
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22275
+            "stars": 22278
           }
         },
         {
@@ -1575,7 +1575,7 @@
             "last_commit": "2026-08-14T02:26:45Z",
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3755
+            "stars": 3756
           }
         },
         {
@@ -1634,8 +1634,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:56:49.805Z",
+    "last_updated": "2026-08-19T12:20:00.990Z",
     "original_repository": "shadawck/awesome-cli-frameworks",
+    "original_repository_id": 253221248,
     "original_repository_sha": "82eaa5dbf3ed8fbb957270728c8b45ff6ff82ff8",
     "enhanced_repository": "enhansome/enhansome-cli-frameworks",
     "enhanced_repository_description": null,
