@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T08:08:40Z",
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24263
+            "stars": 24266
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T15:11:24Z",
             "owner": "bashly-framework",
             "repo": "bashly",
-            "stars": 2442
+            "stars": 2443
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-07-13T20:09:41Z",
             "owner": "jarro2783",
             "repo": "cxxopts",
-            "stars": 4798
+            "stars": 4800
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-21T04:21:07Z",
             "owner": "CLIUtils",
             "repo": "CLI11",
-            "stars": 4418
+            "stars": 4419
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-25T08:05:49Z",
             "owner": "gflags",
             "repo": "gflags",
-            "stars": 3025
+            "stars": 3026
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-03T13:28:38Z",
             "owner": "Taywee",
             "repo": "args",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-21T22:29:01Z",
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11596
+            "stars": 11598
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 113807330,
             "language": "C#",
-            "last_commit": "2026-08-23T02:04:00Z",
+            "last_commit": "2026-08-23T15:34:44Z",
             "owner": "tui-cs",
             "repo": "Terminal.Gui",
-            "stars": 11179
+            "stars": 11182
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-19T20:13:57Z",
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 4998
+            "stars": 4999
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-11T00:43:07Z",
             "owner": "spf13",
             "repo": "cobra",
-            "stars": 44498
+            "stars": 44501
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-01-12T21:42:47Z",
             "owner": "spf13",
             "repo": "viper",
-            "stars": 30444
+            "stars": 30446
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-18T01:24:26Z",
             "owner": "urfave",
             "repo": "cli",
-            "stars": 24201
+            "stars": 24202
           }
         },
         {
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 128887107,
             "language": "Go",
-            "last_commit": "2026-08-20T05:28:25Z",
+            "last_commit": "2026-08-24T07:40:01Z",
             "owner": "alecthomas",
             "repo": "kong",
             "stars": 3160
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5410
+            "stars": 5411
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39715
+            "stars": 39721
           }
         },
         {
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 2206953,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T04:53:59Z",
+            "last_commit": "2026-08-24T04:05:39Z",
             "owner": "tj",
             "repo": "commander.js",
-            "stars": 28369
+            "stars": 28372
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-07T03:15:41Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11514
+            "stars": 11515
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-10T14:16:01Z",
             "owner": "oclif",
             "repo": "oclif",
-            "stars": 9579
+            "stars": 9580
           }
         },
         {
@@ -804,7 +804,7 @@
             "archived": false,
             "id": 379064069,
             "language": "TypeScript",
-            "last_commit": "2026-08-02T11:39:28Z",
+            "last_commit": "2026-08-24T06:18:25Z",
             "owner": "adbayb",
             "repo": "termost",
             "stars": 185
@@ -876,7 +876,7 @@
             "archived": false,
             "id": 48857927,
             "language": "Nim",
-            "last_commit": "2026-07-21T11:47:55Z",
+            "last_commit": "2026-08-23T17:25:17Z",
             "owner": "c-blake",
             "repo": "cligen",
             "stars": 582
@@ -936,7 +936,7 @@
             "archived": false,
             "id": 158551734,
             "language": "Nim",
-            "last_commit": "2026-07-14T17:44:51Z",
+            "last_commit": "2026-08-24T05:00:32Z",
             "owner": "status-im",
             "repo": "nim-confutils",
             "stars": 69
@@ -1038,7 +1038,7 @@
             "archived": false,
             "id": 1398630,
             "language": "PHP",
-            "last_commit": "2026-08-22T13:46:47Z",
+            "last_commit": "2026-08-23T18:09:17Z",
             "owner": "symfony",
             "repo": "console",
             "stars": 9809
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-22T04:41:44Z",
             "owner": "pallets",
             "repo": "click",
-            "stars": 17631
+            "stars": 17632
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2024-03-02T09:32:55Z",
             "owner": "CITGuru",
             "repo": "PyInquirer",
-            "stars": 1998
+            "stars": 1999
           }
         },
         {
@@ -1476,10 +1476,10 @@
             "archived": false,
             "id": 600886023,
             "language": "Rust",
-            "last_commit": "2026-08-22T23:24:35Z",
+            "last_commit": "2026-08-23T18:19:37Z",
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22330
+            "stars": 22352
           }
         },
         {
@@ -1494,7 +1494,7 @@
             "last_commit": "2026-08-20T22:19:52Z",
             "owner": "clap-rs",
             "repo": "clap",
-            "stars": 16652
+            "stars": 16656
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-06-11T13:52:42Z",
             "owner": "sam701",
             "repo": "zig-cli",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:49:48.157Z",
+    "last_updated": "2026-08-24T08:06:29.963Z",
     "original_repository": "shadawck/awesome-cli-frameworks",
     "original_repository_id": 253221248,
     "original_repository_sha": "82eaa5dbf3ed8fbb957270728c8b45ff6ff82ff8",
