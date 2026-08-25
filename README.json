@@ -433,7 +433,7 @@
             "last_commit": "2026-01-12T21:42:47Z",
             "owner": "spf13",
             "repo": "viper",
-            "stars": 30447
+            "stars": 30448
           }
         },
         {
@@ -570,7 +570,7 @@
                 "last_commit": "2026-08-25T00:32:48Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182170
+                "stars": 182176
               }
             }
           ],
@@ -674,7 +674,7 @@
             "archived": false,
             "id": 60111626,
             "language": "Java",
-            "last_commit": "2026-08-24T20:54:06Z",
+            "last_commit": "2026-08-25T06:30:25Z",
             "owner": "jline",
             "repo": "jline3",
             "stars": 1796
@@ -728,7 +728,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39733
+            "stars": 39731
           }
         },
         {
@@ -1742,7 +1742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:04.568Z",
+    "last_updated": "2026-08-25T08:01:04.459Z",
     "original_repository": "shadawck/awesome-cli-frameworks",
     "original_repository_id": 253221248,
     "original_repository_sha": "82eaa5dbf3ed8fbb957270728c8b45ff6ff82ff8",
