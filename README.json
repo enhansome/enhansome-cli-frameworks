@@ -15,11 +15,11 @@
             "id": 502193049,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T04:26:00Z",
+            "last_commit": "2026-09-11T05:27:03Z",
             "open_issues": 205,
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24356,
+            "stars": 24364,
             "topics": [
               "bash",
               "shell"
@@ -97,7 +97,7 @@
             "open_issues": 2,
             "owner": "sigoden",
             "repo": "argc",
-            "stars": 1165,
+            "stars": 1164,
             "topics": [
               "argc",
               "bash",
@@ -158,10 +158,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T21:40:47Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "CLIUtils",
             "repo": "CLI11",
-            "stars": 4442,
+            "stars": 4440,
             "topics": [
               "cli",
               "cli-parser",
@@ -384,11 +384,11 @@
             "id": 281360869,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:23:26Z",
+            "last_commit": "2026-09-10T22:14:44Z",
             "open_issues": 181,
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11610,
+            "stars": 11612,
             "topics": [
               "ansi-colors",
               "cli-parser",
@@ -415,11 +415,11 @@
             "id": 113807330,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:46:11Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-11T12:08:54Z",
+            "open_issues": 56,
             "owner": "tui-cs",
             "repo": "Terminal.Gui",
-            "stars": 11206,
+            "stars": 11209,
             "topics": [
               "console",
               "console-application",
@@ -488,7 +488,7 @@
             "open_issues": 325,
             "owner": "commandlineparser",
             "repo": "commandline",
-            "stars": 4816,
+            "stars": 4815,
             "topics": [
               "command-line",
               "dotnet",
@@ -513,7 +513,7 @@
             "open_issues": 483,
             "owner": "dotnet",
             "repo": "command-line-api",
-            "stars": 3673,
+            "stars": 3674,
             "topics": [
               "command-line",
               "commandlineparser",
@@ -628,7 +628,7 @@
                 "open_issues": 150,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21592,
+                "stars": 21593,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -738,7 +738,7 @@
             "open_issues": 441,
             "owner": "spf13",
             "repo": "cobra",
-            "stars": 44592,
+            "stars": 44600,
             "topics": [
               "cli",
               "cli-app",
@@ -776,7 +776,7 @@
             "open_issues": 133,
             "owner": "spf13",
             "repo": "viper",
-            "stars": 30456,
+            "stars": 30458,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -797,7 +797,7 @@
             "open_issues": 73,
             "owner": "urfave",
             "repo": "cli",
-            "stars": 24231,
+            "stars": 24232,
             "topics": [
               "cli",
               "command-line",
@@ -823,10 +823,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-08T20:10:44Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "alecthomas",
             "repo": "kong",
-            "stars": 3172,
+            "stars": 3173,
             "topics": [
               "command-line",
               "commands",
@@ -1007,10 +1007,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-10T07:37:37Z",
-                "open_issues": 228,
+                "open_issues": 233,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 183691,
+                "stars": 183797,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1260,7 +1260,7 @@
             "open_issues": 30,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39844,
+            "stars": 39852,
             "topics": [
               "cli",
               "command-line",
@@ -1288,7 +1288,7 @@
             "open_issues": 8,
             "owner": "tj",
             "repo": "commander.js",
-            "stars": 28387,
+            "stars": 28388,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -1336,10 +1336,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T05:45:00Z",
-            "open_issues": 211,
+            "open_issues": 212,
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11509,
+            "stars": 11506,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 23,
             "owner": "oclif",
             "repo": "oclif",
-            "stars": 9590,
+            "stars": 9591,
             "topics": [
               "cli",
               "nodejs",
@@ -1479,7 +1479,7 @@
             "open_issues": 42,
             "owner": "arcanis",
             "repo": "clipanion",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "cli",
               "typescript"
@@ -1558,7 +1558,7 @@
             "id": 379064069,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:17:40Z",
+            "last_commit": "2026-09-11T00:05:56Z",
             "open_issues": 2,
             "owner": "adbayb",
             "repo": "termost",
@@ -1656,7 +1656,7 @@
             "open_issues": 38,
             "owner": "Kotlin",
             "repo": "kotlinx-cli",
-            "stars": 950,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -1926,7 +1926,7 @@
             "open_issues": 0,
             "owner": "symfony",
             "repo": "console",
-            "stars": 9811,
+            "stars": 9812,
             "topics": [
               "cli",
               "command-line",
@@ -1956,7 +1956,7 @@
             "open_issues": 58,
             "owner": "laravel-zero",
             "repo": "laravel-zero",
-            "stars": 4006,
+            "stars": 4005,
             "topics": [
               "application",
               "cli",
@@ -2025,7 +2025,7 @@
             "open_issues": 4,
             "owner": "mnapoli",
             "repo": "silly",
-            "stars": 933,
+            "stars": 932,
             "topics": [
               "cli",
               "micro-framework",
@@ -2137,7 +2137,7 @@
             "open_issues": 196,
             "owner": "google",
             "repo": "python-fire",
-            "stars": 28218,
+            "stars": 28219,
             "topics": [
               "cli",
               "python"
@@ -2157,11 +2157,11 @@
             "id": 19103692,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T19:48:10Z",
+            "last_commit": "2026-09-10T19:29:50Z",
             "open_issues": 85,
             "owner": "pallets",
             "repo": "click",
-            "stars": 17663,
+            "stars": 17665,
             "topics": [
               "cli",
               "click",
@@ -2184,10 +2184,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-26T20:59:35Z",
-            "open_issues": 713,
+            "open_issues": 714,
             "owner": "prompt-toolkit",
             "repo": "python-prompt-toolkit",
-            "stars": 10565,
+            "stars": 10567,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -2266,7 +2266,7 @@
             "open_issues": 2,
             "owner": "pwaller",
             "repo": "pyfiglet",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "ascii-art",
               "figlet",
@@ -2312,8 +2312,8 @@
             "id": 398515,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T08:11:14Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-10T22:55:51Z",
+            "open_issues": 22,
             "owner": "datafolklabs",
             "repo": "cement",
             "stars": 1348,
@@ -2333,11 +2333,11 @@
             "id": 713675962,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T01:13:42Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-11T00:12:09Z",
+            "open_issues": 20,
             "owner": "BrianPugh",
             "repo": "cyclopts",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "argument-parser",
               "cli",
@@ -2417,7 +2417,7 @@
             "open_issues": 71,
             "owner": "lebrice",
             "repo": "SimpleParsing",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "argparse",
               "argparse-alternative",
@@ -2629,7 +2629,7 @@
             "id": 87159607,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:06:33Z",
+            "last_commit": "2026-09-11T05:02:13Z",
             "open_issues": 13,
             "owner": "dry-rb",
             "repo": "dry-cli",
@@ -2665,7 +2665,7 @@
                 "open_issues": 8,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14151,
+                "stars": 14152,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2700,11 +2700,11 @@
             "id": 600886023,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:43:36Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-11T00:14:49Z",
+            "open_issues": 215,
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22541,
+            "stars": 22552,
             "topics": [
               "cli",
               "ratatui",
@@ -2733,7 +2733,7 @@
             "open_issues": 451,
             "owner": "clap-rs",
             "repo": "clap",
-            "stars": 16697,
+            "stars": 16701,
             "topics": [
               "argument-parser",
               "argument-parsing",
@@ -2831,7 +2831,7 @@
             "id": 608903906,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:48:28Z",
+            "last_commit": "2026-09-11T04:01:06Z",
             "open_issues": 4,
             "owner": "moonrepo",
             "repo": "starbase",
@@ -2859,10 +2859,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T01:25:01Z",
-            "open_issues": 142,
+            "open_issues": 144,
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3764,
+            "stars": 3763,
             "topics": [
               "cli",
               "command-line",
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:15:32.141Z",
+    "last_updated": "2026-09-11T12:13:50.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tools to build beautiful command line interface in different languages",
