@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24464,
+            "stars": 24465,
             "topics": [
               "bash",
               "shell"
@@ -72,7 +72,7 @@
             "open_issues": 44,
             "owner": "matejak",
             "repo": "argbash",
-            "stars": 1487,
+            "stars": 1488,
             "topics": [
               "argument-parsing",
               "code-generator",
@@ -161,7 +161,7 @@
             "open_issues": 83,
             "owner": "CLIUtils",
             "repo": "CLI11",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "cli",
               "cli-parser",
@@ -241,7 +241,7 @@
             "open_issues": 25,
             "owner": "adishavit",
             "repo": "argh",
-            "stars": 1443,
+            "stars": 1442,
             "topics": [
               "argument-parser",
               "cli",
@@ -388,7 +388,7 @@
             "open_issues": 175,
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11654,
+            "stars": 11653,
             "topics": [
               "ansi-colors",
               "cli-parser",
@@ -451,7 +451,7 @@
             "open_issues": 3,
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 5001,
+            "stars": 5000,
             "topics": [
               "cli",
               "command-line",
@@ -628,7 +628,7 @@
                 "open_issues": 169,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21643,
+                "stars": 21642,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -735,10 +735,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-07-11T00:43:07Z",
-            "open_issues": 464,
+            "open_issues": 462,
             "owner": "spf13",
             "repo": "cobra",
-            "stars": 44684,
+            "stars": 44686,
             "topics": [
               "cli",
               "cli-app",
@@ -773,7 +773,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-01-12T21:42:47Z",
-            "open_issues": 142,
+            "open_issues": 141,
             "owner": "spf13",
             "repo": "viper",
             "stars": 30483,
@@ -797,7 +797,7 @@
             "open_issues": 37,
             "owner": "urfave",
             "repo": "cli",
-            "stars": 24284,
+            "stars": 24287,
             "topics": [
               "cli",
               "command-line",
@@ -1010,7 +1010,7 @@
                 "open_issues": 67,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 187183,
+                "stars": 187208,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1260,7 +1260,7 @@
             "open_issues": 33,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40051,
+            "stars": 40054,
             "topics": [
               "cli",
               "command-line",
@@ -1288,7 +1288,7 @@
             "open_issues": 12,
             "owner": "tj",
             "repo": "commander.js",
-            "stars": 28414,
+            "stars": 28416,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -1309,7 +1309,7 @@
             "open_issues": 13,
             "owner": "SBoudrias",
             "repo": "Inquirer.js",
-            "stars": 21629,
+            "stars": 21631,
             "topics": [
               "cli",
               "command-line",
@@ -1360,7 +1360,7 @@
             "open_issues": 22,
             "owner": "oclif",
             "repo": "oclif",
-            "stars": 9593,
+            "stars": 9594,
             "topics": [
               "cli",
               "nodejs",
@@ -1479,7 +1479,7 @@
             "open_issues": 43,
             "owner": "arcanis",
             "repo": "clipanion",
-            "stars": 1255,
+            "stars": 1256,
             "topics": [
               "cli",
               "typescript"
@@ -1848,7 +1848,7 @@
             "language": "OCaml",
             "license": "ISC",
             "last_commit": "2026-06-09T06:06:37Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "dbuenzli",
             "repo": "cmdliner",
             "stars": 345,
@@ -2184,10 +2184,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-26T20:59:35Z",
-            "open_issues": 741,
+            "open_issues": 742,
             "owner": "prompt-toolkit",
             "repo": "python-prompt-toolkit",
-            "stars": 10593,
+            "stars": 10594,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:57.491Z"
@@ -2704,7 +2704,7 @@
             "open_issues": 202,
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22877,
+            "stars": 22881,
             "topics": [
               "cli",
               "ratatui",
@@ -2733,7 +2733,7 @@
             "open_issues": 451,
             "owner": "clap-rs",
             "repo": "clap",
-            "stars": 16756,
+            "stars": 16757,
             "topics": [
               "argument-parser",
               "argument-parsing",
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:53.298Z",
+    "last_updated": "2026-10-06T14:14:42.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tools to build beautiful command line interface in different languages",
