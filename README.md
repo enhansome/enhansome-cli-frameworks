@@ -2,7 +2,7 @@
 
 **Collection of framework to build beautiful command line interface in different languages**
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,835 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 544,268 | 🐛 103 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -48,7 +48,7 @@
 
 ## Bash/Shell
 
-* [gum](https://github.com/charmbracelet/gum) ⭐ 24,707 | 🐛 226 | 🌐 Go | 📅 2026-11-20 : A tool for glamorous shell scripts 🎀 (written in go).
+* [gum](https://github.com/charmbracelet/gum) ⭐ 24,714 | 🐛 226 | 🌐 Go | 📅 2026-11-20 : A tool for glamorous shell scripts 🎀 (written in go).
 
 * [Bashly](https://github.com/DannyBen/bashly) ⭐ 2,464 | 🐛 1 | 🌐 Ruby | 📅 2026-11-10 : A command line application (written in Ruby) that lets you generate feature-rich bash command line tools. Bashly lets you focus on your specific code, without worrying about command line argument parsing, usage texts, error messages and other functions that are usually handled by a framework in any other programming language.
 
@@ -64,13 +64,13 @@
 
 ## [C++](https://www.cpp-lang.net/)
 
-* [cxxopt](https://github.com/jarro2783/cxxopts) ⭐ 4,830 | 🐛 77 | 🌐 C++ | 📅 2026-11-22 : Lightweight C++ command line option parser.
+* [cxxopt](https://github.com/jarro2783/cxxopts) ⭐ 4,830 | 🐛 77 | 🌐 C++ | 📅 2026-11-28 : Lightweight C++ command line option parser.
 
-* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,538 | 🐛 86 | 🌐 C++ | 📅 2026-11-25 : A command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
+* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,539 | 🐛 86 | 🌐 C++ | 📅 2026-11-25 : A command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 
 * [gflags](https://github.com/gflags/gflags) ⭐ 3,031 | 🐛 35 | 🌐 C++ | 📅 2026-07-25 : The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 
-* [args](https://github.com/Taywee/args) ⭐ 1,647 | 🐛 0 | 🌐 C++ | 📅 2026-10-23 : A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
+* [args](https://github.com/Taywee/args) ⭐ 1,648 | 🐛 0 | 🌐 C++ | 📅 2026-10-23 : A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
 
 * [argh!](https://github.com/adishavit/argh) ⭐ 1,444 | 🐛 25 | 🌐 C++ | 📅 2025-01-21 : Argh! A minimalist argument handler.
 
@@ -80,25 +80,25 @@
 
 ## [Dart](https://dart.dev/)
 
-* [dcli](https://github.com/onepub-dev/dcli) ⭐ 265 | 🐛 34 | 🌐 Dart | 📅 2026-11-01 : An API and tooling for building cross platform command line (CLI) applications and scripts using the Dart programming language.
+* [dcli](https://github.com/onepub-dev/dcli) ⭐ 264 | 🐛 34 | 🌐 Dart | 📅 2026-11-01 : An API and tooling for building cross platform command line (CLI) applications and scripts using the Dart programming language.
 
 * [args](https://github.com/dart-lang/args) ⚠️ Archived : Parses raw command-line arguments into a set of options and values.
 
 ## [Deno](https://deno.land/)
 
-* [deno-cliffy](https://github.com/c4spar/deno-cliffy) ⭐ 1,186 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-18 : Command line framework for deno sauropod Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
+* [deno-cliffy](https://github.com/c4spar/deno-cliffy) ⭐ 1,187 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-18 : Command line framework for deno sauropod Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 
 ## [Dotnet](https://dotnet.microsoft.com/)
 
-* [spectre.console](https://github.com/spectreconsole/spectre.console) ⭐ 11,720 | 🐛 161 | 🌐 C# | 📅 2026-11-22 : A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
+* [spectre.console](https://github.com/spectreconsole/spectre.console) ⭐ 11,722 | 🐛 160 | 🌐 C# | 📅 2026-11-22 : A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
 
-* [gui.cs](https://github.com/migueldeicaza/gui.cs) ⭐ 11,323 | 🐛 51 | 🌐 C# | 📅 2026-11-26 : Console-based user interface toolkit for .NET applications.
+* [gui.cs](https://github.com/migueldeicaza/gui.cs) ⭐ 11,323 | 🐛 53 | 🌐 C# | 📅 2026-11-26 : Console-based user interface toolkit for .NET applications.
 
-* [CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 5,015 | 🐛 8 | 🌐 C# | 📅 2026-11-26 : CliWrap is a library for interacting with external command line interfaces. It provides a convenient model for launching processes, redirecting input and output streams, awaiting completion, handling cancellation, and more.
+* [CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 5,016 | 🐛 8 | 🌐 C# | 📅 2026-11-26 : CliWrap is a library for interacting with external command line interfaces. It provides a convenient model for launching processes, redirecting input and output streams, awaiting completion, handling cancellation, and more.
 
-* [CommandLine](https://github.com/commandlineparser/commandline) ⭐ 4,816 | 🐛 322 | 🌐 C# | 📅 2024-02-29 : The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.
+* [CommandLine](https://github.com/commandlineparser/commandline) ⭐ 4,815 | 🐛 322 | 🌐 C# | 📅 2024-02-29 : The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.
 
-* [command-line-api](https://github.com/dotnet/command-line-api) ⭐ 3,680 | 🐛 513 | 🌐 C# | 📅 2026-11-27 : Command line parsing, invocation, and rendering of terminal output.
+* [command-line-api](https://github.com/dotnet/command-line-api) ⭐ 3,680 | 🐛 513 | 🌐 C# | 📅 2026-11-28 : Command line parsing, invocation, and rendering of terminal output.
 
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) ⭐ 2,268 | 🐛 9 | 🌐 C# | 📅 2026-07-01 : This project helps you create command line applications using .NET. It simplifies parsing arguments provided on the command line, validating user inputs, and generating help text.
 
@@ -108,7 +108,7 @@
 
 ### Useful awesome list for Dotnet cli
 
-* [awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md#cli) ⭐ 21,740 | 🐛 235 | 📅 2026-03-26 by @quozd : A collection of awesome .NET libraries, tools, frameworks, and software.
+* [awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md#cli) ⭐ 21,741 | 🐛 237 | 📅 2026-03-26 by @quozd : A collection of awesome .NET libraries, tools, frameworks, and software.
 
 ## [Elixir](https://elixir-lang.org/)
 
@@ -120,22 +120,22 @@
 
 ## [Go](https://go.dev/)
 
-* [Cobra](https://github.com/spf13/cobra) ⭐ 44,860 | 🐛 516 | 🌐 Go | 📅 2026-07-11 : Many of the most widely used Go projects are built using Cobra, such as: [Kubernetes](http://kubernetes.io/), [Hugo](http://gohugo.io), [rkt](https://github.com/coreos/rkt) ⚠️ Archived, [etcd](https://github.com/coreos/etcd) ⭐ 52,660 | 🐛 561 | 🌐 Go | 📅 2026-11-24, [Moby (former Docker)](https://github.com/moby/moby) ⭐ 72,322 | 🐛 3,964 | 🌐 Go | 📅 2026-11-27, [Docker (distribution)](https://github.com/docker/distribution) ⭐ 10,711 | 🐛 550 | 🌐 Go | 📅 2026-11-27, [OpenShift](https://www.openshift.com/), [Delve](https://github.com/derekparker/delve) ⭐ 660 | 🐛 2 | 🌐 Go | 📅 2026-11-14, [GopherJS](http://www.gopherjs.org/), [CockroachDB](http://www.cockroachlabs.com/), [Bleve](http://www.blevesearch.com/), [ProjectAtomic (enterprise)](http://www.projectatomic.io/), [Giant Swarm's gsctl](https://github.com/giantswarm/gsctl) ⚠️ Archived, [Nanobox](https://github.com/nanobox-io/nanobox) ⭐ 1,632 | 🐛 76 | 🌐 Go | 📅 2019-10-21/[Nanopack](https://github.com/nanopack), [rclone](http://rclone.org/), [nehm](https://github.com/bogem/nehm) ⚠️ Archived, [Pouch](https://github.com/alibaba/pouch) ⭐ 4,635 | 🐛 10 | 🌐 Go | 📅 2024-08-22, [Istio](https://istio.io), [Prototool](https://github.com/uber/prototool) ⚠️ Archived, [mattermost-server](https://github.com/mattermost/mattermost-server) ⭐ 39,724 | 🐛 1,166 | 🌐 TypeScript | 📅 2026-11-27, [Gardener](https://github.com/gardener/gardenctl) ⚠️ Archived, [Linkerd](https://linkerd.io/),
+* [Cobra](https://github.com/spf13/cobra) ⭐ 44,866 | 🐛 517 | 🌐 Go | 📅 2026-07-11 : Many of the most widely used Go projects are built using Cobra, such as: [Kubernetes](http://kubernetes.io/), [Hugo](http://gohugo.io), [rkt](https://github.com/coreos/rkt) ⚠️ Archived, [etcd](https://github.com/coreos/etcd) ⭐ 52,662 | 🐛 565 | 🌐 Go | 📅 2026-11-28, [Moby (former Docker)](https://github.com/moby/moby) ⭐ 72,323 | 🐛 3,965 | 🌐 Go | 📅 2026-11-28, [Docker (distribution)](https://github.com/docker/distribution) ⭐ 10,712 | 🐛 552 | 🌐 Go | 📅 2026-11-28, [OpenShift](https://www.openshift.com/), [Delve](https://github.com/derekparker/delve) ⭐ 660 | 🐛 2 | 🌐 Go | 📅 2026-11-14, [GopherJS](http://www.gopherjs.org/), [CockroachDB](http://www.cockroachlabs.com/), [Bleve](http://www.blevesearch.com/), [ProjectAtomic (enterprise)](http://www.projectatomic.io/), [Giant Swarm's gsctl](https://github.com/giantswarm/gsctl) ⚠️ Archived, [Nanobox](https://github.com/nanobox-io/nanobox) ⭐ 1,632 | 🐛 76 | 🌐 Go | 📅 2019-10-21/[Nanopack](https://github.com/nanopack), [rclone](http://rclone.org/), [nehm](https://github.com/bogem/nehm) ⚠️ Archived, [Pouch](https://github.com/alibaba/pouch) ⭐ 4,634 | 🐛 10 | 🌐 Go | 📅 2024-08-22, [Istio](https://istio.io), [Prototool](https://github.com/uber/prototool) ⚠️ Archived, [mattermost-server](https://github.com/mattermost/mattermost-server) ⭐ 39,729 | 🐛 1,174 | 🌐 TypeScript | 📅 2026-11-28, [Gardener](https://github.com/gardener/gardenctl) ⚠️ Archived, [Linkerd](https://linkerd.io/),
   etc.
 
-* [Viper](https://github.com/spf13/viper) ⭐ 30,558 | 🐛 150 | 🌐 Go | 📅 2026-01-12 : Viper is a complete configuration solution for Go applications including 12-Factor apps. It is designed to work within an application, and can handle all types of configuration needs and formats.
+* [Viper](https://github.com/spf13/viper) ⭐ 30,560 | 🐛 151 | 🌐 Go | 📅 2026-01-12 : Viper is a complete configuration solution for Go applications including 12-Factor apps. It is designed to work within an application, and can handle all types of configuration needs and formats.
 
-* [cli](https://github.com/urfave/cli) ⭐ 24,330 | 🐛 52 | 🌐 Go | 📅 2026-11-16 : A simple, fast, and fun package for building command line apps in Go.
+* [cli](https://github.com/urfave/cli) ⭐ 24,331 | 🐛 52 | 🌐 Go | 📅 2026-11-16 : A simple, fast, and fun package for building command line apps in Go.
 
-* [Kong](https://github.com/alecthomas/kong) ⭐ 3,210 | 🐛 71 | 🌐 Go | 📅 2026-11-22 : Kong aims to support arbitrarily complex command-line structures with as little developer effort as possible.
+* [Kong](https://github.com/alecthomas/kong) ⭐ 3,210 | 🐛 70 | 🌐 Go | 📅 2026-11-22 : Kong aims to support arbitrarily complex command-line structures with as little developer effort as possible.
 
-* [go-arg](https://github.com/alexflint/go-arg) ⭐ 2,295 | 🐛 43 | 🌐 Go | 📅 2026-11-14 : Struct-based argument parsing in Go.
+* [go-arg](https://github.com/alexflint/go-arg) ⭐ 2,296 | 🐛 43 | 🌐 Go | 📅 2026-11-14 : Struct-based argument parsing in Go.
 
 * [Docopt Go](https://github.com/docopt/docopt.go) ⭐ 1,443 | 🐛 31 | 🌐 Go | 📅 2023-12-07 : docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
 * [Mow.cli](https://github.com/jawher/mow.cli) ⭐ 882 | 🐛 34 | 🌐 Go | 📅 2024-03-07 : A versatile library for building CLI applications in Go
 
-* [Golang Agrparse](https://github.com/akamensky/argparse) ⭐ 639 | 🐛 7 | 🌐 Go | 📅 2022-10-31 : The goal of this project is to bring ease of use and flexibility of argparse (Python) to Go.
+* [Golang Agrparse](https://github.com/akamensky/argparse) ⭐ 638 | 🐛 7 | 🌐 Go | 📅 2022-10-31 : The goal of this project is to bring ease of use and flexibility of argparse (Python) to Go.
 
 * [climate](https://github.com/avamsi/climate) ⭐ 166 | 🐛 14 | 🌐 Go | 📅 2026-11-23 : Autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)
 
@@ -143,7 +143,7 @@
 
 ### Useful awesome list for Go cli
 
-* [Awesome-go](https://github.com/avelino/awesome-go) ⭐ 196,309 | 🐛 101 | 🌐 Go | 📅 2026-11-27 by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line) ⭐ 196,309 | 🐛 101 | 🌐 Go | 📅 2026-11-27
+* [Awesome-go](https://github.com/avelino/awesome-go) ⭐ 196,489 | 🐛 97 | 🌐 Go | 📅 2026-11-28 by @avelino : A curated list of awesome Go frameworks, libraries and software. Look at [Command Line](https://github.com/avelino/awesome-go#command-line) ⭐ 196,489 | 🐛 97 | 🌐 Go | 📅 2026-11-28
 
 ## [Haskell](https://www.haskell.org/)
 
@@ -155,41 +155,41 @@
 
 ## [Java](https://dev.java/)
 
-* [Picocli](https://github.com/remkop/picocli) ⭐ 5,459 | 🐛 196 | 🌐 Java | 📅 2026-08-16 : A modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease.
+* [Picocli](https://github.com/remkop/picocli) ⭐ 5,458 | 🐛 196 | 🌐 Java | 📅 2026-08-16 : A modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease.
 
 * [Jcommander](https://github.com/cbeust/jcommander) ⭐ 2,024 | 🐛 104 | 🌐 Java | 📅 2026-11-02 : An annotation based parameter parsing framework for Java 8.
 
-* [Jline3](https://github.com/jline/jline3) ⭐ 1,813 | 🐛 3 | 🌐 Java | 📅 2026-11-26 : A Java library for handling console input. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.
+* [Jline3](https://github.com/jline/jline3) ⭐ 1,813 | 🐛 6 | 🌐 Java | 📅 2026-11-27 : A Java library for handling console input. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.
 
 * [args4j](https://github.com/kohsuke/args4j) ⭐ 804 | 🐛 85 | 🌐 Java | 📅 2024-03-06 : A small Java class library that makes it easy to parse command line options/arguments in your CLI application.
 
-* [Apache Commons CLI](https://github.com/apache/commons-cli) ⭐ 394 | 🐛 8 | 🌐 Java | 📅 2026-11-25 : Apache Commons CLI provides a simple API for presenting, processing and validating a Command Line Interface.
+* [Apache Commons CLI](https://github.com/apache/commons-cli) ⭐ 394 | 🐛 8 | 🌐 Java | 📅 2026-11-28 : Apache Commons CLI provides a simple API for presenting, processing and validating a Command Line Interface.
 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-* [Ink](https://github.com/vadimdemedes/ink) ⭐ 40,340 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-24 : React for interactive command-line apps. (See also [Pastel](https://github.com/vadimdemedes/pastel) ⭐ 2,413 | 🐛 19 | 🌐 TypeScript | 📅 2026-03-21)
+* [Ink](https://github.com/vadimdemedes/ink) ⭐ 40,339 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-24 : React for interactive command-line apps. (See also [Pastel](https://github.com/vadimdemedes/pastel) ⭐ 2,413 | 🐛 19 | 🌐 TypeScript | 📅 2026-03-21)
 
-* [Commander.js](https://github.com/tj/commander.js/) ⭐ 28,468 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-27 : The complete solution for node.js command-line interfaces.
+* [Commander.js](https://github.com/tj/commander.js/) ⭐ 28,472 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-27 : The complete solution for node.js command-line interfaces.
 
-* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) ⭐ 21,642 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-27 : Inquirer.js strives to be an easily embeddable and beautiful command line interface for Node.js.
+* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) ⭐ 21,642 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-27 : Inquirer.js strives to be an easily embeddable and beautiful command line interface for Node.js.
 
-* [Yargs](https://github.com/yargs/yargs) ⭐ 11,507 | 🐛 200 | 🌐 JavaScript | 📅 2026-11-26 : Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
+* [Yargs](https://github.com/yargs/yargs) ⭐ 11,509 | 🐛 201 | 🌐 JavaScript | 📅 2026-11-26 : Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 
-* [Oclif](https://github.com/oclif/oclif) ⭐ 9,611 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-04 : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
+* [Oclif](https://github.com/oclif/oclif) ⭐ 9,610 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-04 : Oclif is a framework for building CLIs in Node.js. This framework was built out of the Heroku CLI but generalized to build any custom CLI. It's designed both for single-file CLIs with a few flag options, or for very complex CLIs that have subcommands (like git or heroku).
 
 * [Vorpal](https://github.com/dthree/vorpal) ⭐ 5,617 | 🐛 137 | 🌐 JavaScript | 📅 2023-09-19 : Vorpal is Node's first framework for building interactive CLI applications. With a simple and powerful API, Vorpal opens the door to a new breed of rich, immersive CLI environments. **\[NOT MAINTAINED]**
 
-* [Caporal.js](https://github.com/mattallty/Caporal.js) ⭐ 3,444 | 🐛 28 | 🌐 TypeScript | 📅 2024-01-03 : A full-featured framework for building command line applications (cli) with node.js,  including help generation, colored output, verbosity control, custom logger, coercion and casting, typos suggestions, and auto-complete for bash/zsh/fish.
+* [Caporal.js](https://github.com/mattallty/Caporal.js) ⭐ 3,443 | 🐛 28 | 🌐 TypeScript | 📅 2024-01-03 : A full-featured framework for building command line applications (cli) with node.js,  including help generation, colored output, verbosity control, custom logger, coercion and casting, typos suggestions, and auto-complete for bash/zsh/fish.
 
-* [Gluegun](https://github.com/infinitered/gluegun) ⭐ 3,136 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-12 : A delightful toolkit for building TypeScript-powered command-line apps.
+* [Gluegun](https://github.com/infinitered/gluegun) ⭐ 3,135 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-12 : A delightful toolkit for building TypeScript-powered command-line apps.
 
 * [Clipanion](https://github.com/arcanis/clipanion) ⭐ 1,258 | 🐛 43 | 🌐 TypeScript | 📅 2024-09-06 : Official CLI framework powering both the Yarn CLI - one of the most complex command-line tool in the ecosystem - and small internal scripts. Clipanion is designed with type safety in mind, and leverages a syntax as idiomatic as possible to avoid cluttering your code with boilerplate.
 
 * [args](https://github.com/leo/args) ⭐ 462 | 🐛 40 | 🌐 JavaScript | 📅 2023-02-27 : Toolkit for building command line interfaces.
 
-* [Clerc](https://github.com/clercjs/clerc) ⭐ 225 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-27 : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
+* [Clerc](https://github.com/clercjs/clerc) ⭐ 225 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-28 : Clerc is a full-featured library for building CLI Apps in Node.js, Deno or Bun. It's strongly-typed, easy-to-use and flexible.
 
-* [Termost](https://github.com/adbayb/termost) ⭐ 186 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-25: A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ...
+* [Termost](https://github.com/adbayb/termost) ⭐ 186 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-28: A full-featured framework to build your next command line interfaces (CLI) in a minute. Thanks to its fluent and type-safe API, you can easily express and manage your program metadata (including version and help), sub-commands, user prompts, tasks, options and flags, ...
 
 * [node-seeli](https://github.com/esatterwhite/node-seeli) ⭐ 20 | 🐛 7 | 🌐 JavaScript | 📅 2026-05-08 : Object orientated, event driven , Interactive CLI module. Seeli aims to give you the tools to compose A command line interface the way you want it, and otherwise, stays out of your way.
 
@@ -229,7 +229,7 @@
 
 ## [PHP](https://www.php.net/)
 
-* [Symfony/Console](https://github.com/symfony/Console) ⭐ 9,813 | 🐛 0 | 🌐 PHP | 📅 2026-11-27 : The Console component of symfony eases the creation of beautiful and testable command line interfaces.
+* [Symfony/Console](https://github.com/symfony/Console) ⭐ 9,811 | 🐛 0 | 🌐 PHP | 📅 2026-11-28 : The Console component of symfony eases the creation of beautiful and testable command line interfaces.
 
 * [laravel-zero](https://github.com/laravel-zero/laravel-zero) ⭐ 4,012 | 🐛 60 | 🌐 PHP | 📅 2026-10-14 : A micro-framework that provides an elegant starting point for your console application. It is an unofficial and customized version of Laravel optimized for building command-line applications.
 
@@ -249,11 +249,11 @@
 
 ## [Python](https://www.python.org/)
 
-* [Python-Fire](https://github.com/google/python-fire) ⭐ 28,229 | 🐛 233 | 🌐 Python | 📅 2026-07-01 : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+* [Python-Fire](https://github.com/google/python-fire) ⭐ 28,230 | 🐛 232 | 🌐 Python | 📅 2026-07-01 : Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-* [Click](https://github.com/pallets/click) ⭐ 17,851 | 🐛 83 | 🌐 Python | 📅 2026-11-16 : Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
+* [Click](https://github.com/pallets/click) ⭐ 17,852 | 🐛 83 | 🌐 Python | 📅 2026-11-16 : Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
 
-* [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,632 | 🐛 790 | 🌐 Python | 📅 2026-10-20 : Library for building powerful interactive command line applications in Python.
+* [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,631 | 🐛 790 | 🌐 Python | 📅 2026-10-20 : Library for building powerful interactive command line applications in Python.
 
 * [Docopt](https://github.com/docopt/docopt) ⭐ 8,004 | 🐛 280 | 🌐 Python | 📅 2025-06-23 / [Docopt-NG](https://github.com/jazzband/docopt-ng) ⭐ 227 | 🐛 16 | 🌐 Python | 📅 2026-11-11 : Pythonic command line arguments parser, that will make you smile. docopt parses command-line arguments based on a help message. Don't write parser code: a good help message already has all the necessary information in it.
 
@@ -261,17 +261,17 @@
 
 * [PyFiglet](https://github.com/pwaller/pyfiglet) ⭐ 1,595 | 🐛 4 | 🌐 Python | 📅 2026-08-02 : Pyfiglet is a full port of FIGlet (<http://www.figlet.org/>) into pure python. It takes ASCII text and renders it in ASCII art fonts.
 
-* [Cleo](https://github.com/python-poetry/cleo) ⭐ 1,358 | 🐛 57 | 🌐 Python | 📅 2026-11-19 : Cleo allows you to create beautiful and testable command-line interfaces.
+* [Cleo](https://github.com/python-poetry/cleo) ⭐ 1,358 | 🐛 56 | 🌐 Python | 📅 2026-11-19 : Cleo allows you to create beautiful and testable command-line interfaces.
 
 * [Cement](https://github.com/datafolklabs/cement) ⭐ 1,352 | 🐛 33 | 🌐 Python | 📅 2026-11-23 : Cement is an advanced Application Framework for Python, with a primary focus on Command Line Interfaces (CLI). Its goal is to introduce a standard, and feature-full platform for both simple and complex command line applications as well as support rapid development needs without sacrificing quality.
 
-* [Cyclopts](https://github.com/BrianPugh/cyclopts) ⭐ 1,308 | 🐛 22 | 🌐 Python | 📅 2026-11-27 : Intuitive, easy CLIs based on python type hints.
+* [Cyclopts](https://github.com/BrianPugh/cyclopts) ⭐ 1,308 | 🐛 19 | 🌐 Python | 📅 2026-11-28 : Intuitive, easy CLIs based on python type hints.
 
-* [Tyro](https://github.com/brentyi/tyro) ⭐ 1,151 | 🐛 26 | 🌐 Python | 📅 2026-11-25 : Tool for generating command-line interfaces and configuration objects in Python.
+* [Tyro](https://github.com/brentyi/tyro) ⭐ 1,151 | 🐛 28 | 🌐 Python | 📅 2026-11-28 : Tool for generating command-line interfaces and configuration objects in Python.
 
 * [Tap](https://github.com/swansonk14/typed-argument-parser) ⭐ 631 | 🐛 30 | 🌐 Python | 📅 2026-08-29 : Tap is a typed modernization of Python's argparse library.
 
-* [SimpleParsing](https://github.com/lebrice/SimpleParsing) ⭐ 551 | 🐛 82 | 🌐 Python | 📅 2026-11-04 : Allows you to transform your ugly argparse scripts into beautifully structured, strongly typed little works of art. This isn't a fancy, complicated new command-line tool either, this simply adds new features to plain-old argparse !
+* [SimpleParsing](https://github.com/lebrice/SimpleParsing) ⭐ 552 | 🐛 82 | 🌐 Python | 📅 2026-11-04 : Allows you to transform your ugly argparse scripts into beautifully structured, strongly typed little works of art. This isn't a fancy, complicated new command-line tool either, this simply adds new features to plain-old argparse !
 
 * [Clize](https://github.com/epsy/clize) ⭐ 493 | 🐛 33 | 🌐 Python | 📅 2023-11-24 : An argument parser for Python. You can use Clize as an alternative to argparse if you want an even easier way to create command-line interfaces.
 
@@ -311,7 +311,7 @@
 
 ## [Rust](https://www.rust-lang.org/)
 
-* [Ratatui](https://github.com/ratatui-org/ratatui) ⭐ 23,457 | 🐛 174 | 🌐 Rust | 📅 2026-11-25 : Rust library that's all about cooking up terminal user interfaces (TUIs).
+* [Ratatui](https://github.com/ratatui-org/ratatui) ⭐ 23,464 | 🐛 174 | 🌐 Rust | 📅 2026-11-27 : Rust library that's all about cooking up terminal user interfaces (TUIs).
 
 * [Clap](https://github.com/clap-rs/clap) ⭐ 16,934 | 🐛 454 | 🌐 Rust | 📅 2026-11-26 : A full featured, fast Command Line Argument Parser for Rust.
 
@@ -321,7 +321,7 @@
 
 * [rust-argparse](https://github.com/tailhook/rust-argparse) ⭐ 247 | 🐛 11 | 🌐 Rust | 📅 2023-05-27 : The command-line argument parser library for rust.
 
-* [Starbase](https://github.com/moonrepo/starbase#components) ⭐ 151 | 🐛 2 | 🌐 Rust | 📅 2026-11-24 : Framework for building performant command line applications and developer tools.
+* [Starbase](https://github.com/moonrepo/starbase#components) ⭐ 150 | 🐛 2 | 🌐 Rust | 📅 2026-11-24 : Framework for building performant command line applications and developer tools.
 
 * [Termion](https://lib.rs/crates/termion) : Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 
@@ -331,9 +331,9 @@
 
 ## [Swift](https://www.swift.org/)
 
-* [swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,814 | 🐛 163 | 🌐 Swift | 📅 2026-11-20 : Straightforward, type-safe argument parsing for Swift
+* [swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,815 | 🐛 164 | 🌐 Swift | 📅 2026-11-27 : Straightforward, type-safe argument parsing for Swift
 
-* [Commander](https://github.com/kylef/Commander) ⭐ 1,531 | 🐛 3 | 🌐 Swift | 📅 2022-03-26 : Compose beautiful command line interfaces in Swift.
+* [Commander](https://github.com/kylef/Commander) ⭐ 1,530 | 🐛 3 | 🌐 Swift | 📅 2022-03-26 : Compose beautiful command line interfaces in Swift.
 
 ## [V](https://vlang.io/)
 
@@ -356,4 +356,4 @@ Licensed under Creative Commons, CC BY 4.0, © [Shadawck](https://github.com/sha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
